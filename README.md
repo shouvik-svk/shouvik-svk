@@ -10,9 +10,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | C++ | HTML | CSS | JavaScript 
-- 🌐 &nbsp; React.js | Android | J2EE | node.js
-- 🛢 &nbsp; MySQL | Firebase 
+- 💻 &nbsp; Java | JavaScript | node.js | NestJS
+- 🌐 &nbsp; Angular | React.js | Vue | HTML | CSS
+- 🛢 &nbsp; MySQL | MongoDB | Firebase 
 - 🔧 &nbsp; Android Studio | Visual Studio code | Eclipse | Git
 
 <br>
@@ -27,8 +27,8 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/shouvik-choudhury-69ab3466/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:shouvik_choudhury@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a> 
+&nbsp; <a href="https://www.linkedin.com/in/shouvik-choudhury-69ab3466/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png"/></a>
+&nbsp; <a href="mailto:shouvik_choudhury@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"/></a> 
 </p>
 
 
