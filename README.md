@@ -22,14 +22,5 @@
 
 <br><hr>
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center">
-&nbsp; <a href="https://www.linkedin.com/in/shouvik-choudhury-69ab3466/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png"/></a>
-&nbsp; <a href="mailto:shouvik_choudhury@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"/></a> 
-</p>
-
-<br><hr>
-
 #### **Visitor Count**
  ![Visitor Count](https://profile-counter.glitch.me/{shouvik-svk}/count.svg)
