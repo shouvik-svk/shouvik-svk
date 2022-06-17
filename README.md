@@ -1,9 +1,11 @@
-<h2> Hey there! I'm Shouvik. <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="200"/>
+<h3 align="center">Hi 👋, I'm Shouvik</h3>
+<h5 align="center">Fullstack developer from India</h5>
 
-<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="300"/>
+
+<br/><br/><hr/>
 
 
-<h3> 👨🏻‍💻 About Me </h3>
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
@@ -116,6 +118,7 @@
 
 <br/>
 
+
 <h3 align="left">Others:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -137,3 +140,5 @@
 
 #### **Visitor Count**
  ![Visitor Count](https://profile-counter.glitch.me/{shouvik-svk}/count.svg)
+ 
+
